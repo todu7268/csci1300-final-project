@@ -1,3 +1,4 @@
+This project's code and story were all written by me.
 I'm using CLion IDE, so the CMakeLists.txt and the folders are necessary for the IDE to compile.
 The .ilk and .pdb files are also made by my IDE.
 I made the cpp files and the h files, and when I compiled them, the IDE made executables.
