@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/School/Year 1, Semester 1/CSCI 1300/.vscode/Project 3/Cars.h
+iostream
+-
+fstream
+-
+
+C:/School/Year 1, Semester 1/CSCI 1300/.vscode/Project 3/Leaderboard.h
+Cars.h
+C:/School/Year 1, Semester 1/CSCI 1300/.vscode/Project 3/Cars.h
+NPCs.h
+C:/School/Year 1, Semester 1/CSCI 1300/.vscode/Project 3/NPCs.h
+
+C:/School/Year 1, Semester 1/CSCI 1300/.vscode/Project 3/MainMenu.cpp
+iostream
+-
+fstream
+-
+string
+-
+Players.h
+C:/School/Year 1, Semester 1/CSCI 1300/.vscode/Project 3/Players.h
+Cars.h
+C:/School/Year 1, Semester 1/CSCI 1300/.vscode/Project 3/Cars.h
+NPCs.h
+C:/School/Year 1, Semester 1/CSCI 1300/.vscode/Project 3/NPCs.h
+Leaderboard.h
+C:/School/Year 1, Semester 1/CSCI 1300/.vscode/Project 3/Leaderboard.h
+Map.h
+C:/School/Year 1, Semester 1/CSCI 1300/.vscode/Project 3/Map.h
+
+C:/School/Year 1, Semester 1/CSCI 1300/.vscode/Project 3/Map.h
+fstream
+-
+iostream
+-
+ctype.h
+-
+
+C:/School/Year 1, Semester 1/CSCI 1300/.vscode/Project 3/NPCs.h
+iostream
+-
+fstream
+-
+Cars.h
+C:/School/Year 1, Semester 1/CSCI 1300/.vscode/Project 3/Cars.h
+
+C:/School/Year 1, Semester 1/CSCI 1300/.vscode/Project 3/Players.h
+iostream
+-
+fstream
+-
+

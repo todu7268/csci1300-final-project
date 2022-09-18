@@ -1,0 +1,36 @@
+CYOA Underground Racing Story Game:
+
+5 Classes:
+
+1. Map (given for Carmen Sandiego, NEED TO MODIFY!)
+2. Players 
+	- Private: Player Name (string), Player Progress (string, file name to ifstream the progress from - while playing a file will be made that saves the progress)
+	- Public: Default Constructor, Getters/Setters for Player Name and Progress.
+	* Players.h, Players.cpp and playersDriver.cpp compile and run correctly.
+
+3. Cars
+	-Private: Model(string), Transmission (string), Street Cred between 0 and 100 (unsigned int)
+	-Public: Default Constructor, Getters/Setters for Model, Transmission and Street Cred.
+	*Cars.h, Cars.cpp and carsDriver.cpp compile and run correctly.
+4. NPCs
+	-Private: NPC Name (string), NPC Car (Cars)
+	*NPCs can only have 1 car. The player's car will be the car with the most street cred.
+	-Public: Default Constructor, Getters/Setters for NPC Name, Car Model, Car Transmission and Car Street Cred.
+	*NPCs.h, NPCs.cpp, Cars.cpp and NPCDriver.cpp compile and run correctly.
+
+5. Leaderboard
+	-Private: Name (NPCs), Total SC(unsigned int between 0 and 100)
+	-Public: Default Constructor, Getters/Setters for Name and Total SC
+	*Leaderboard.h, Leaderboard.cpp, Cars.cpp, NPCs.cpp and leaderboardDriver.cpp compile and run correctly.
+
+Main Menu of the Game:
+
+What I have so far:
+
+1. Start Game
+2. Read Progress File
+3. How To Play
+4. Quit
+
+Due to lack of time, I didn't modify the Carmen Sandiego function names, I just edited them to my needs.
+That's why I've got a spawnBestBuy() function when I'm supposed to go to a race or something similar.

@@ -1,0 +1,132 @@
+*The first key choice 1*
+
+Narrator: "Ah, James... You don't even know what you just got into.
+As he's about to learn - it's never a good idea to run from racers who can beat a Skyline with Miatas."
+
+-----10 Minutes after Race-----
+
+Gomez: "BOY, WHAT THE HELL HAPPENED TO MY CAR?!"
+
+James:
+ 
+1. "Listen, I can explain. We were at the races and this guy, he just crashed into the thing - it wasn't my fault. How much for the damage?"
+
+2. "Some punk crashed into it, I'll pay for the damage myself."
+
+Gomez: "First of all, that car is one of my sources of income. I need it fixed ASAP with a full new midnight purple premium wrap and everything. 
+And it's supposed to be done by tonight. I need the car. And why didn't you take the guy's insurance? Are you that dumb?"
+
+James:
+
+1. Well..
+
+Output: "Well... about that; I couldn't exactly get his money because... I kind of made him race me and lost the car, so I bolted.
+I'm more afraid of you than him."
+
+2. Speaking of... I may have screwed up.
+
+Output: "Speaking of... I may have screwed up. I couldn't exactly get the money because I challenged him to a race for pink slips... and lost."
+
+Gomez: "YOU WHAT? I OUGHTA KILL YOU RIGHT NOW!"
+
+James: "Listen, man, I'll pay for your car and I won't owe you anything, we'll be all done and I'll just owe the guy a car. I can live with that."
+
+Gomez: "Well... I suppose that's fine by me, as long as I get my payday. Who did you lose to, anyway?"
+
+James:
+
+1. "Some kid, uh... The devil? The demon?"
+
+2. "His name was 'The Demon'."
+
+Gomez: "The demon? HECTOR, The Demon?"
+
+James: "Yeah, he's the one. You know him?"
+
+Gomez: "I do. And you're gonna wish you didn't."
+
+James: "What?"
+
+Gomez: "Hector's the kid of this underground thug - they call him Phantom. 
+Phantom's the real deal. Only people who have seen him are his sons. There are speculations as to what he actually looks like, but that's about it.
+That's called power, kid. You're going up against an opponent you don't even know what he looks like.
+Look, you killed yourself the moment you decided to run away from that race when you lost. Phantom's dogs are probably on your ass right now.
+You're putting me in danger, now. I can't take this car back, if I do - I'm dead.
+I usually rent out my weaker ones - the ones cocky kids like you drive to "get the ladies". Take the keys, I'll hook you up with a crew.
+My name will never get mentioned. I DO NOT know you. 
+You're gonna go to Kelly's garage. Tell them that the Underdog sent you, and to say 'Code Black - Phantom'. Kelly's crew have been at war with Phantom since forever.
+You tell them that, and they'll get you under their wing. It's either that, or dying, kid."
+
+James:
+ 
+1. "Where do I find this Kelly's garage?"
+
+2. "If you say there's no other way..."
+
+Gomez: "Find the X. You know the rest. And, kid! Don't leave town! You owe me a $65k car! Whatever you win, you bring straight to me. Otherwise, I'm not at war with Kelly.
+One word, you die."
+
+-----Right after, Kelly's Garage-----
+
+James:
+
+1. "Hi. The underdog sent me, said to tell you 'Code Black - Phantom'."
+
+2. "'Code Black - Phantom.' The Underdog said to meet you here."
+
+Kelly: "Oh, God. Who are you, then."
+
+James: "Name's Jame--"
+
+Kelly: "I really don't wanna know your name. But since Gomie sent you, and it's about that dog, come in. Nice Skyline."\
+
+James: "Thanks!"
+
+Kelly: "So, why are you interested in taking down Phantom?
+You one of his boys that went rogue?"
+
+James: 
+
+1. "I lost a race, now I'm looking for a rematch."
+
+2. "It's personal, I really wouldn't like to get into it. All I need is to win a race against his boys."
+
+Kelly: "Not in that piece of crap, though. That's one of Gomez' show cars, right?
+The ones he rents out to pay for that crappy old apartment? Come on, follow me."
+
+Narrator: "And Kelly and James walked into a room full of cars. This, to James, was heaven.
+Kelly's collection - pristine cars, all won through illegal racing. Kelly ran the scene.
+She kept all her cars as trophies, but new recruits always got benefits with her. That is, if you prove yourself."
+
+James: 
+
+1. "Wow."
+
+2. Stay silent
+
+Kelly: "You know how hunters have those deer heads on the walls of their offices hung as trophies from a good hunt?
+Well, this is my room full of deer heads. Except, well, if the deer had 4 wheels and 6 and 8 cylinder engines.
+Pick your poison, kid."
+
+Narrator: "So, Kelly offered 3 choices of cars:
+1. One of the finest Nissans - the Silvia S15, right hand drive, imported straight from Japan. 2JZ engine swap, two of the biggest turbos James had ever seen and a perfect tuning job.
+2. The best America has to offer - Dodge Viper, a V10 engine sports car, some would say even super car. That's all I need to say, no?
+3. Germany's beast - the BMW E36 M3. Pushing north of 650 horsepower, this car was the ultimate track killer."
+
+James:
+
+1. "I'll take the Silvia!"
+
+KEY CHOICE 1.1
+
+2. "Can I have the Viper, please?"
+
+KEY CHOICE 1.1
+
+3. "No-brainer - give me the Bimmer."
+
+KEY CHOICE 1.1
+
+4. "Actually, can I get a different car? Possibly an automatic? I don't drive manual."
+
+KEY CHOICE 1.2

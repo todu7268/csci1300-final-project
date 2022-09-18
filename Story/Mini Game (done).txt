@@ -1,0 +1,41 @@
+This mini-game is only in key choices 1.1 and 2.1.
+It wasn't included in the first race, since it was an automatic transmission vehicle.
+This mini-game is only played with manual transmission cars.
+It'll consist of 5 choices.
+4 or 5 of these choices need to be correct in order for a race to be won.
+
+
+1. Do you start the race with a higher or lower RPM (Rotations per Minute of the pistons in the engine) count?
+
+1 - Higher 2 - Lower
+
+Correct choice: 1.
+
+2. You're in first gear, 5000 RPMs. Shift to 2?
+
+1 - Yes 2 - No
+
+Correct choice: 1.
+
+3. You're now in 2 gear, 3000 RPMs. Do you shift to 3?
+
+1 - Yes 2 - No
+
+Correct choice: 2
+
+4. You have nitrous in your car. Do you boost it earlier or later in the race?
+
+1 - Earlier 2 - Later
+
+Correct choice: 2
+
+5. You're about to corner with a high speed and in 4th gear. Do you downshift or stay in the current gear?
+
+1 - Downshift 2 - Stay in Gear
+
+Correct choice: 1
+
+Function called minigame() that takes no parameters and returns an integer with the count of how many choices were correct.
+
+Prompt to display player's leaderboard stats after that.
+

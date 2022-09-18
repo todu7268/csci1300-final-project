@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/School/Year 1, Semester 1/CSCI 1300/.vscode/Project 3/Cars.cpp
+Cars.h
+C:/School/Year 1, Semester 1/CSCI 1300/.vscode/Project 3/Cars.h
+
+C:/School/Year 1, Semester 1/CSCI 1300/.vscode/Project 3/Cars.h
+iostream
+-
+fstream
+-
+
+C:/School/Year 1, Semester 1/CSCI 1300/.vscode/Project 3/NPCDriver.cpp
+NPCs.h
+C:/School/Year 1, Semester 1/CSCI 1300/.vscode/Project 3/NPCs.h
+
+C:/School/Year 1, Semester 1/CSCI 1300/.vscode/Project 3/NPCs.cpp
+NPCs.h
+C:/School/Year 1, Semester 1/CSCI 1300/.vscode/Project 3/NPCs.h
+
+C:/School/Year 1, Semester 1/CSCI 1300/.vscode/Project 3/NPCs.h
+iostream
+-
+fstream
+-
+Cars.h
+C:/School/Year 1, Semester 1/CSCI 1300/.vscode/Project 3/Cars.h
+

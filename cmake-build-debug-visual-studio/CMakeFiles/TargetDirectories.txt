@@ -1,0 +1,4 @@
+C:/School/Year 1, Semester 1/CSCI 1300/.vscode/Project 3/cmake-build-debug-visual-studio/CMakeFiles/TimeServer.dir
+C:/School/Year 1, Semester 1/CSCI 1300/.vscode/Project 3/cmake-build-debug-visual-studio/CMakeFiles/MainMenu.dir
+C:/School/Year 1, Semester 1/CSCI 1300/.vscode/Project 3/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir
+C:/School/Year 1, Semester 1/CSCI 1300/.vscode/Project 3/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir

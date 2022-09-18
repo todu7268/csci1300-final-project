@@ -1,0 +1,204 @@
+*This is the beginning of the story, same for every player*
+
+-----11 AM, Thursday-----
+
+Narrator: "You work at a bank during a busy day. You're tired from working all night on a PowerPoint or Excel they made you do. 
+You are made to do things that are kind of degrading - you went through college to work a job any high school kid with a computer can do.
+You wanna quit, but you can't."
+
+Boss: *to you* "James! I need this month's stats and the PowerPoint you needed to do!"
+
+James (you):
+1. Right away, boss!
+
+Output: "Right away, boss!"
+
+2. Fuck you and this lame dead end job, Jim! I'll get them to you when I get them to you!
+
+Output: "(quietly) Wish I could say that... (loudly, to boss) Of course, sir!"
+
+Boss: "Thanks, James. You're a good kid."
+
+James: (quietly and ironically) "Thanks..."
+
+Andrew: "Sup, James?"
+
+Narrator: "Andrew's James' best friend. He's the one guy who's truly there for him through anything. James got this job because of him."
+
+James:
+
+1. (ironically) "Super excited to be here, Andy, feel VERY happy."
+2. "Oh, hey, bro. I'm super tired, can't wait for this day to be over."
+
+Andrew: "Hey, don't forget Saturday night!"
+
+James: "Of course not, bro, I'm dying to go."
+
+Narrator: "James and Andrew are car enthusiasts. Something about cars calms James down, he feels fulfilled when driving...
+Andrew is a simpler guy than him, though. Andrew just likes to see a guy's car spit flames or hear a roaring American V8.
+Their Saturday night plans were to go to a track, watch some races. They were both very excited to go."
+
+-----5 PM, The Same Day-----
+
+James:
+1. "Thank god this day's over!"
+2. *Say nothing*
+
+Narrator: "James is always excited when work ends. It's not because he hates it or anything, it just means he gets to speed home in his car."
+
+Christina: "Hey, James. Are you leaving?"
+
+James:
+
+1. Yeah.
+
+Output: "Yeah."
+
+2. No, I'm gonna stick around doing nothing here! What do you think?
+
+Output: "(to himself) What's with me today? (louder) Oh hey, yeah I'm just about to go home."
+
+Narrator: "Christina is the hot new girl. You may or may not have a little crush on her."
+
+Christina: "Oh, cool. Hey, I missed the bus, I think. Can you give me a ride home?"
+
+James:
+1. "Yeah."
+2. "Sure."
+
+Christina: "Awesome, thanks. Hey, what kinda car do you drive?"
+
+Narrator: "See, the exciting thing about video games is, you can choose what you drive right there on the spot.
+Who's gonna stop you? It's a game."
+
+James:
+
+1. "Oh, just an Audi A5 TDI."
+2. "A Mercedes S280 sedan."
+3. "A Ferrari 458 Speciale! Nah, I'm just playing - I got a BMW 330d."
+
+Narrator: "Christina's house is the C."
+
+Christina: "You have a pretty cool car."
+
+Narrator: "So, after you got Christina home safe, you go home too exhausted to do anything at all and just pass out on your couch."
+
+-----12PM, Saturday-----
+
+*Phone Ringing*
+
+James: "Hello?"
+
+Andrew:"Hey man, what are you up to?"
+
+James:
+
+1. "I'm sleeping in, bro, it's Saturday."
+
+2. "Nothing much, to be honest, just enjoying a cup of coffee."
+
+Andrew: "Bro, come on, you can't be serious, we gotta go!"
+
+James:
+
+1. "What do you mean, man, go where?"
+2. "Riiiiight. I must be forgetting something - our plans were about tonight."
+
+Andrew: "Dude, you can't be serious. You're not seriously planning on going to the race in your car, are you?"
+
+James:
+
+1. "Actually, I was."
+2. "What car am I going to take to then, Andy?"
+
+Andrew: "Dude, there's this like really cool guy, he's a crazy genius mechanic who can hook us up. 
+He's got all these project cars which are super sick. Skylines, Supras, GT-Rs if you want something more modern...
+I'll rent us one, bro, I'll drive."
+
+James: "Alright, fine, you win. SKYLINE R34! Or I'm not going."
+
+Andrew: "Bet."
+
+-----8PM, Saturday-----
+
+Narrator: "So, James and Andrew pull up in the R34 that Andrew got for them.
+They had heard about what this race was like, but, wow - they never expected this.
+Muscle cars, the finest of JDM, Germany's racing legends, a Hyundai here and there - it was legendary."
+
+James: "Bro, I still can't believe you got us an automatic R34. What's wrong with you?
+I didn't even know they made these things in auto..."
+
+Andrew: "Well, what am I supposed to say?! This was all he had. 
+I should've gotten the Miata and who cares what you think."
+
+James: 
+
+1. "On second thought, this is fine."
+
+2. "Yeah, that's what happens when you're brain-dead."
+
+Andrew: "Anyway, hurry up, man, races are starting."
+
+Narrator: "And, man, were the races amazing. Fire-breathing track monsters were racing.
+Every single car tuned, customized. Racers have an expression, "Built, not bought." Well, all of these were built.
+Andrew and James just sat there, truly amazed, watching these beasts running the quarter mile, all of them in under 9 seconds flat.
+
+That is, of course... until the race ended."
+
+-----11PM, Saturday, as all the races wrapped up-----
+
+Narrator: "After these type of races, it's only typical there's gonna be show-off kids.
+It's only expected that some punk will try to drift, powerslide, burn his tires, anything that'll basically damage his car in a fun way.
+
+And Andrew and James are watching one of them. They want to be that punk, too, of course.
+He's the center of attention at these things. It's only logical."
+
+Andrew: "Hey is that guy gonna-"
+
+Andrew: "Oh, you gotta be kidding me!"
+
+Narrator: "Yup... Their emotions quickly turned from admiration of this kid to pure hatred."
+
+Andrew: "Yo, man!"
+
+Hector: "Hey, my bad, G!"
+
+Andrew: "What do you mean, 'my bad, G', you just scratched a $100k vehicle."
+
+Hector: "Ay, man, I said I was sorry, get the fuck outta my face."
+
+Andrew: "Look, kid. This doesn't have to be this way - just give me the name of your insurance company and we'll figure this out."
+
+Hector: "Man, I ain't paying for that shitbox!"
+
+James: 
+
+1. "Oh, you got some jokes to go along with your ugly powersliding, huh? Race me for pink slips - then whoever wins can pay for the damage on the Skyline... And keeps it."
+
+2. "If you're so good at driving, why don't you race me for it then."
+
+Andrew: (quietly, to you) "Ey, man, that guy, Gomez, the guy who rents this stuff? He won't be okay with this."
+
+James: "Relax, Andy, I got this, he's in an NC Miata for God's sake."
+
+Narrator: "And James thought having an NC Miata would mean you're a slow guy. 
+Not necessarily, as he would end up learning. James sat down in his Skyline, ready to race, and that's when Andy heard it.
+A sound of a roaring V8 coming from the tiny little Miata. Somehow, a supercharged, Chevy LS1 V8 managed to fit inside it. Andy already knew.
+James lost before the race even started.
+
+You see, Hector had experience in these kinds of things. They called him the demon - he was an underground racer, almost as good as the pros they'd seen earlier, and his nickname?
+His nickname comes from the cars he builds and races. He calls them demons from hell, each one faster and more insane than the other. He's one of the best there is."
+
+-----Right after the race-----
+
+Hector: "Keys, please!"
+
+James: 
+
+1. *Choose to run away, fix the Skyline and make things even with Gomez*
+
+KEY CHOICE 1
+
+2. "Fine. Good race."
+
+KEY CHOICE 2

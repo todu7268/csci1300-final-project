@@ -1,0 +1,4 @@
+C:/School/Year 1, Semester 1/CSCI 1300/.vscode/HW8/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/School/Year 1, Semester 1/CSCI 1300/.vscode/HW8/cmake-build-debug/CMakeFiles/shuffleDriver.dir
+C:/School/Year 1, Semester 1/CSCI 1300/.vscode/HW8/cmake-build-debug/CMakeFiles/TimeServer.dir
+C:/School/Year 1, Semester 1/CSCI 1300/.vscode/HW8/cmake-build-debug/CMakeFiles/rebuild_cache.dir

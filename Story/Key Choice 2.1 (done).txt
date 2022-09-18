@@ -1,0 +1,132 @@
+Beverly: "Sure thing, man. You got a taste."
+
+The Demon: "Yeah, the taste of a MORON, HAHA. You suck at driving anyway."
+
+Beverly: "Lay off the kid, man, you had one of them before."
+
+The Demon: "HAD, Beverly. HAD. Past tense... asshole."
+
+James:
+
+1. "Okay, so now what? We race? How's that gonna stop Gomez from KILLING ME?!"
+
+2. "Let's race this thing!"
+
+The Demon: "Slow down there, tiger. First we need to bump up your street cred. 
+You're riding with me and my boys, in my car. So, your cred is already pretty high, 77.
+HOWEVER, I'd still like you above 80 on that leaderboard before you can ride with me and my crew.
+Then you're forgiven, I pull strings with Gomez. But you're with me. If I find you being disloyal..."
+*hand gesture saying "I'll kill you"*
+
+Beverly: "Okay, Hector. Race championship is tomorrow night. Your boy makes it there, we can talk."
+
+The Demon: "Okay. (to you) Okay, man. Come with me.
+We need you to do really well in this championship.
+All the underground racers will send their best crews up there. First place of the whole thing is a million.
+Winner takes all. I need you to get us in the competition up there. All you need to do is win 3 races that whole night.
+That'll raise your street cred to 80, too.
+
+Couple of tips: higher the RPMs - the faster you accelerate. Don't upshift unless necessary, don't redline it either.
+Most cars redline at about 7k. Shift at 6-7k. When cornering, always downshift to 3 or 2 and rev match.
+Clutch in, and as you're bringing the shifter into the lower gear, parallel to that you wanna blip the throttle with your right leg.
+Then you just release the clutch and that's a rev match, but I assume you already know that. Good luck out there."
+
+-----The next night-----
+
+Narrator: "James needed to quickly get to the X, the race was soon starting."
+
+The Demon: "You ready?"
+
+James:
+
+1. "Yes."
+
+2. "ABSOLUTELY NOT! I'M TERRIFIED!"
+
+The Demon: "Great! Let's go!"
+
+*speakers blasting Still DRE loudly, car engines revving and people racing*
+
+Narrator: "Up until two days ago, James dreamed of places like this one. 
+Now, he just couldn't shake this feeling of nausea and fear.
+It was like, he was ready to do this, but he was about to choke.
+But he shoved all of that back where it was coming from. It was time. The next couple of races will change his life."
+
+*MINI GAME*
+
+The Demon: "That was impressive. Wow, man! Where'd you learn to drive like that?!"
+
+James:
+
+1. "Well, I just took your advice."
+
+2. "When I raced you I wasn't in the game. Bet if we rematch, I'll win. Haha."
+
+The Demon: "Too bad we ain't never gon' find out. Anyway, there's this girl, Kelly.
+You think you can beat her? She a pro, tho. She the best."
+
+James:
+
+1. "Yeah, I'll try."
+
+2. No, I'm not feeling up to it.
+
+Output: "No, I'm not fee- You know what? Let's do it, bro."
+
+The Demon: "Ight, man!"
+
+Narrator: "Kelly was the greatest racer on these grounds.
+She's been winning this thing every month it was hosted for 2 years straight. No one could beat her.
+James' driving was impressive today, but for her? You need some Smokey Nagata speeds."
+
+James: "Ight, I'm ready."
+
+Kelly: "This ain't gonna be a fair one, punk. None of your boys will win this.
+I'll let anyone win but you!"
+
+Narrator: "James was confused now. He was terrified."
+
+-----1 Minute Later, Just After the Race Started-----
+
+James: "(in his car, no one hears him) Yo, what's wrong with this chick?!"
+
+Kelly: "(in hers) You didn't think I was going to play fair against Phantom's boys, did you?"
+
+James: "OH GOD!"
+
+Narrator: "And Kelly drove James into a life-threatening crash."
+
+-----5 Days Later, Hospital-----
+
+James:
+
+1. "Where am I?"
+
+Output: *James tries to speak but feels dizzy and pain everywhere*
+
+2. "What happened?"
+
+Output: *James tries to speak but feels dizzy and pain everywhere*
+
+Andrew: "Bro, they just called me from the hospital.. Don't try to talk, just rest.
+You were in a crash. I don't know how it happened but... What the hell were you doing in the desert, bro?"
+
+James: "It's a long story."
+
+Narrator: "James then checked his phone. He had received a message from The Demon.
+His crash had justified Phantom's crew killing Kelly, finally ending the war between them.
+And as for James, he was invited to be one of Phantom's own, the right hand of his son."
+
+The Demon: "(over text message) What do you say, man? You want something unforgettable? An adventure of a lifetime?"
+
+James: "(over text) You know, H? I really had a blast today, man.
+I hope I have you and your brother as my friends. But I realized something, man.
+I love my crappy job, and I love my boring old life. I'm sorry. Hope me and my buddy can get invited to another one of them car shows.
+One of yours, this time. And you better make it enjoyable, otherwise I might have to come and kick your ass in a race."
+
+The Demon: "You can try, big man. You can try.
+(they both smile at their phones with respect towards each other, and then put it down and appreciate life more now, with its major changes)"
+
+GAME OVER.
+
+
